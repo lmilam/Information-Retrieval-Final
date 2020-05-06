@@ -5,7 +5,9 @@ This source code in written in .R using Rstudio.<br />
 <br />
 For the dataset, please download from Github and upload to Rstudio.<br />
 <br />
+##DISCLAIMER<br />
 For the source code, DO NOT RUN ENTIRE PROGRAM SIMULTANEOUSLY! The results will not present as desired.<br />
+#INSTRUCTIONS<br />
 This code is to be run in the following way(if run in console, do not include comments) :<br />
 - Lines `11-44`<br />
 - Pause to view plot.
