@@ -1,5 +1,9 @@
 # Information-Retrieval-Final-Repository
-This is a repository with the source code, dataset, presentation, and poster for Group 12's Final project in CS 4331 003 with Professor Fang.<br />
+**Group**: 12<br />
+**Member**: Lora Milam, Sally Comer, and Payal Pawar<br />
+**Course**: CS 4331 003 Information Retreival<br />
+**Professor**: Jin Fang<br />
+**Repository Includes**: Source Code, Dataset, Presentation, and Poster.<br />
 **Platform**:This source code in written in .R using Rstudio.<br />
 <br />
 **DISCLAIMER**<br />
