@@ -1,10 +1,10 @@
 # Information-Retrieval-Final-Repository
 **Group**: 12<br />
-**Member**: Lora Milam, Sally Comer, and Payal Pawar<br />
+**Members**: Lora Milam, Sally Comer, and Payal Pawar<br />
 **Course**: CS 4331 003 Information Retreival<br />
-**Professor**: Jin Fang<br />
+**Professor**: Jin, Fang<br />
 **Repository Includes**: Source Code, Dataset, Presentation, and Poster.<br />
-**Platform**:This source code in written in .R using Rstudio.<br />
+**Platform/Language**:This source code in written in .R using Rstudio.<br />
 <br />
 **DISCLAIMER**<br />
 For the dataset, please download from Github and upload to Rstudio.<br />
